@@ -28,14 +28,15 @@ Bloom Finance helps users manage income, expenses, and savings goals through a s
 ---
 
 ## 📸 Preview
+<img width="1881" height="1036" alt="image" src="https://github.com/user-attachments/assets/669d5d75-9344-4d98-bd9d-03eed13cf063" />
+<img width="1869" height="997" alt="image" src="https://github.com/user-attachments/assets/50ab011a-732d-4a3b-9c6c-fb7339a8bbca" />
 
-(Add screenshots here later once deployed)
+
+
 
 ---
 
-## 🚀 Live Demo
-
-https://yourusername.github.io/Bloom-Finance/
+## 🚀 Live Demo - https://jinaaaaks.github.io/Bloom-Finance/
 
 ---
 
